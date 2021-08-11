@@ -1,0 +1,16 @@
+.counter {
+    background-color: rgb(183, 0, 255);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.counter button {
+    height: 40px;
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+}
